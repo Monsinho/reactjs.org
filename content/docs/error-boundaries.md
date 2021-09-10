@@ -68,6 +68,8 @@ Note that **error boundaries only catch errors in the components below them in t
 
 Check out [this example of declaring and using an error boundary](https://codepen.io/gaearon/pen/wqvxGa?editors=0010) with [React 16](/blog/2017/09/26/react-v16.0.html).
 
+Copy and pasting this code into a Create-React-App the error will be caught, but then Chrome will crash the application with the error log [please explain how to avoid this]
+
 
 ## Where to Place Error Boundaries {#where-to-place-error-boundaries}
 
